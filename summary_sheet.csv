@@ -1,0 +1,4 @@
+KPI,Value,Excel Formula
+Total Sales,2560.0,=SUM(F2:F11)
+Average Sales per Transaction,256.0,=AVERAGE(F2:F11)
+Transaction Count,10.0,=COUNTA(A2:A11)
